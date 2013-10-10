@@ -1,0 +1,2 @@
+Dataset,Algorithm,Enviroment,FeedbackModel,Number of Workers,Number of Question,Worker accuray,Correspondences Accuracy,Completion time,Seed,feedbacksPerWorker,ratio,Answer Per Question,index,Observer
+"",evaluateWorkers.HoneyPot,0.4801504425227334,TwoCoin,50,40,0.22880852162972903,0.0,0.0,123456789,15.24,0.3048,19.05,0.0,10

@@ -1,0 +1,1920 @@
+Worker: 0
+Est. Error Rate: 54.89%
+Eval. Error Rate: ---
+Est. Quality (Expected): 1%
+Est. Quality (Optimized): 10%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 33
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=42.857%	P[True->False]=57.143%	
+P[False->True]=52.632%	P[False->False]=47.368%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 1
+Est. Error Rate: 61.11%
+Eval. Error Rate: ---
+Est. Quality (Expected): 5%
+Est. Quality (Optimized): 22%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 34
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=27.778%	P[True->False]=72.222%	
+P[False->True]=50.0%	P[False->False]=50.0%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 10
+Est. Error Rate: 76.67%
+Eval. Error Rate: ---
+Est. Quality (Expected): 29%
+Est. Quality (Optimized): 53%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 30
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=26.667%	P[True->False]=73.333%	
+P[False->True]=80.0%	P[False->False]=20.0%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 100
+Est. Error Rate: 34.19%
+Eval. Error Rate: ---
+Est. Quality (Expected): 15%
+Est. Quality (Optimized): 32%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 33
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=37.5%	P[True->False]=62.5%	
+P[False->True]=5.882%	P[False->False]=94.118%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 101
+Est. Error Rate: 31.21%
+Eval. Error Rate: ---
+Est. Quality (Expected): 14%
+Est. Quality (Optimized): 38%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 35
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=61.111%	P[True->False]=38.889%	
+P[False->True]=23.529%	P[False->False]=76.471%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 102
+Est. Error Rate: 23.21%
+Eval. Error Rate: ---
+Est. Quality (Expected): 29%
+Est. Quality (Optimized): 54%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 30
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=78.571%	P[True->False]=21.429%	
+P[False->True]=25.0%	P[False->False]=75.0%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 103
+Est. Error Rate: 39.52%
+Eval. Error Rate: ---
+Est. Quality (Expected): 4%
+Est. Quality (Optimized): 21%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 33
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=64.706%	P[True->False]=35.294%	
+P[False->True]=43.75%	P[False->False]=56.25%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 104
+Est. Error Rate: 29.28%
+Eval. Error Rate: ---
+Est. Quality (Expected): 18%
+Est. Quality (Optimized): 41%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 35
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=62.5%	P[True->False]=37.5%	
+P[False->True]=21.053%	P[False->False]=78.947%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 105
+Est. Error Rate: 28.13%
+Eval. Error Rate: ---
+Est. Quality (Expected): 24%
+Est. Quality (Optimized): 44%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 32
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=50.0%	P[True->False]=50.0%	
+P[False->True]=6.25%	P[False->False]=93.75%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 106
+Est. Error Rate: 31.25%
+Eval. Error Rate: ---
+Est. Quality (Expected): 14%
+Est. Quality (Optimized): 37%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 32
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=62.5%	P[True->False]=37.5%	
+P[False->True]=25.0%	P[False->False]=75.0%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 107
+Est. Error Rate: 14.71%
+Eval. Error Rate: ---
+Est. Quality (Expected): 50%
+Est. Quality (Optimized): 71%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 34
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=88.235%	P[True->False]=11.765%	
+P[False->True]=17.647%	P[False->False]=82.353%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 108
+Est. Error Rate: 34.48%
+Eval. Error Rate: ---
+Est. Quality (Expected): 10%
+Est. Quality (Optimized): 31%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 35
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=72.222%	P[True->False]=27.778%	
+P[False->True]=41.176%	P[False->False]=58.824%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 109
+Est. Error Rate: 20.59%
+Eval. Error Rate: ---
+Est. Quality (Expected): 39%
+Est. Quality (Optimized): 59%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 31
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=100.0%	P[True->False]=0.0%	
+P[False->True]=41.176%	P[False->False]=58.824%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 11
+Est. Error Rate: 83.33%
+Eval. Error Rate: ---
+Est. Quality (Expected): 50%
+Est. Quality (Optimized): 67%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 36
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=33.333%	P[True->False]=66.667%	
+P[False->True]=100.0%	P[False->False]=0.0%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 110
+Est. Error Rate: 24.36%
+Eval. Error Rate: ---
+Est. Quality (Expected): 27%
+Est. Quality (Optimized): 51%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 28
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=66.667%	P[True->False]=33.333%	
+P[False->True]=15.385%	P[False->False]=84.615%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 111
+Est. Error Rate: 21.93%
+Eval. Error Rate: ---
+Est. Quality (Expected): 33%
+Est. Quality (Optimized): 56%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 37
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=66.667%	P[True->False]=33.333%	
+P[False->True]=10.526%	P[False->False]=89.474%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 112
+Est. Error Rate: 47.22%
+Eval. Error Rate: ---
+Est. Quality (Expected): 0%
+Est. Quality (Optimized): 6%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 32
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=55.556%	P[True->False]=44.444%	
+P[False->True]=50.0%	P[False->False]=50.0%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 113
+Est. Error Rate: 45.56%
+Eval. Error Rate: ---
+Est. Quality (Expected): 1%
+Est. Quality (Optimized): 9%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 33
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=53.333%	P[True->False]=46.667%	
+P[False->True]=44.444%	P[False->False]=55.556%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 114
+Est. Error Rate: 48.89%
+Eval. Error Rate: ---
+Est. Quality (Expected): 0%
+Est. Quality (Optimized): 2%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 33
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=55.556%	P[True->False]=44.444%	
+P[False->True]=53.333%	P[False->False]=46.667%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 115
+Est. Error Rate: 19.54%
+Eval. Error Rate: ---
+Est. Quality (Expected): 37%
+Est. Quality (Optimized): 61%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 31
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=82.353%	P[True->False]=17.647%	
+P[False->True]=21.429%	P[False->False]=78.571%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 116
+Est. Error Rate: 45.9%
+Eval. Error Rate: ---
+Est. Quality (Expected): 1%
+Est. Quality (Optimized): 8%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 28
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=61.538%	P[True->False]=38.462%	
+P[False->True]=53.333%	P[False->False]=46.667%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 117
+Est. Error Rate: 30.8%
+Eval. Error Rate: ---
+Est. Quality (Expected): 15%
+Est. Quality (Optimized): 38%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 36
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=73.684%	P[True->False]=26.316%	
+P[False->True]=35.294%	P[False->False]=64.706%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 118
+Est. Error Rate: 29.51%
+Eval. Error Rate: ---
+Est. Quality (Expected): 17%
+Est. Quality (Optimized): 41%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 34
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=72.222%	P[True->False]=27.778%	
+P[False->True]=31.25%	P[False->False]=68.75%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 119
+Est. Error Rate: 12.41%
+Eval. Error Rate: ---
+Est. Quality (Expected): 57%
+Est. Quality (Optimized): 75%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 33
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=89.474%	P[True->False]=10.526%	
+P[False->True]=14.286%	P[False->False]=85.714%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 12
+Est. Error Rate: 82.97%
+Eval. Error Rate: ---
+Est. Quality (Expected): 45%
+Est. Quality (Optimized): 66%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 36
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=10.526%	P[True->False]=89.474%	
+P[False->True]=76.471%	P[False->False]=23.529%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 13
+Est. Error Rate: 88.24%
+Eval. Error Rate: ---
+Est. Quality (Expected): 62%
+Est. Quality (Optimized): 76%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 34
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=0.0%	P[True->False]=100.0%	
+P[False->True]=76.471%	P[False->False]=23.529%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 14
+Est. Error Rate: 68.05%
+Eval. Error Rate: ---
+Est. Quality (Expected): 14%
+Est. Quality (Optimized): 36%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 33
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=21.053%	P[True->False]=78.947%	
+P[False->True]=57.143%	P[False->False]=42.857%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 15
+Est. Error Rate: 53.13%
+Eval. Error Rate: ---
+Est. Quality (Expected): 0%
+Est. Quality (Optimized): 6%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 30
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=43.75%	P[True->False]=56.25%	
+P[False->True]=50.0%	P[False->False]=50.0%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 16
+Est. Error Rate: 65.0%
+Eval. Error Rate: ---
+Est. Quality (Expected): 10%
+Est. Quality (Optimized): 30%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 27
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=20.0%	P[True->False]=80.0%	
+P[False->True]=50.0%	P[False->False]=50.0%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 17
+Est. Error Rate: 74.6%
+Eval. Error Rate: ---
+Est. Quality (Expected): 24%
+Est. Quality (Optimized): 49%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 32
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=28.571%	P[True->False]=71.429%	
+P[False->True]=77.778%	P[False->False]=22.222%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 18
+Est. Error Rate: 70.18%
+Eval. Error Rate: ---
+Est. Quality (Expected): 16%
+Est. Quality (Optimized): 40%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 31
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=26.316%	P[True->False]=73.684%	
+P[False->True]=66.667%	P[False->False]=33.333%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 19
+Est. Error Rate: 66.11%
+Eval. Error Rate: ---
+Est. Quality (Expected): 11%
+Est. Quality (Optimized): 32%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 33
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=27.778%	P[True->False]=72.222%	
+P[False->True]=60.0%	P[False->False]=40.0%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 2
+Est. Error Rate: 76.1%
+Eval. Error Rate: ---
+Est. Quality (Expected): 29%
+Est. Quality (Optimized): 52%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 33
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=12.5%	P[True->False]=87.5%	
+P[False->True]=64.706%	P[False->False]=35.294%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 20
+Est. Error Rate: 66.96%
+Eval. Error Rate: ---
+Est. Quality (Expected): 12%
+Est. Quality (Optimized): 34%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 30
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=37.5%	P[True->False]=62.5%	
+P[False->True]=71.429%	P[False->False]=28.571%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 21
+Est. Error Rate: 68.25%
+Eval. Error Rate: ---
+Est. Quality (Expected): 13%
+Est. Quality (Optimized): 36%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 34
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=26.667%	P[True->False]=73.333%	
+P[False->True]=63.158%	P[False->False]=36.842%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 22
+Est. Error Rate: 50.45%
+Eval. Error Rate: ---
+Est. Quality (Expected): 0%
+Est. Quality (Optimized): 1%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 30
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=56.25%	P[True->False]=43.75%	
+P[False->True]=57.143%	P[False->False]=42.857%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 23
+Est. Error Rate: 75.71%
+Eval. Error Rate: ---
+Est. Quality (Expected): 26%
+Est. Quality (Optimized): 51%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 34
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=28.571%	P[True->False]=71.429%	
+P[False->True]=80.0%	P[False->False]=20.0%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 24
+Est. Error Rate: 54.3%
+Eval. Error Rate: ---
+Est. Quality (Expected): 1%
+Est. Quality (Optimized): 9%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 30
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=38.462%	P[True->False]=61.538%	
+P[False->True]=47.059%	P[False->False]=52.941%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 25
+Est. Error Rate: 65.83%
+Eval. Error Rate: ---
+Est. Quality (Expected): 10%
+Est. Quality (Optimized): 32%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 35
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=35.0%	P[True->False]=65.0%	
+P[False->True]=66.667%	P[False->False]=33.333%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 26
+Est. Error Rate: 64.93%
+Eval. Error Rate: ---
+Est. Quality (Expected): 9%
+Est. Quality (Optimized): 30%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 34
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=31.25%	P[True->False]=68.75%	
+P[False->True]=61.111%	P[False->False]=38.889%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 27
+Est. Error Rate: 54.17%
+Eval. Error Rate: ---
+Est. Quality (Expected): 1%
+Est. Quality (Optimized): 8%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 26
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=41.667%	P[True->False]=58.333%	
+P[False->True]=50.0%	P[False->False]=50.0%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 28
+Est. Error Rate: 63.97%
+Eval. Error Rate: ---
+Est. Quality (Expected): 8%
+Est. Quality (Optimized): 28%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 33
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=25.0%	P[True->False]=75.0%	
+P[False->True]=52.941%	P[False->False]=47.059%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 29
+Est. Error Rate: 71.96%
+Eval. Error Rate: ---
+Est. Quality (Expected): 19%
+Est. Quality (Optimized): 44%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 32
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=26.667%	P[True->False]=73.333%	
+P[False->True]=70.588%	P[False->False]=29.412%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 3
+Est. Error Rate: 85.93%
+Eval. Error Rate: ---
+Est. Quality (Expected): 47%
+Est. Quality (Optimized): 72%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 32
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=19.048%	P[True->False]=80.952%	
+P[False->True]=90.909%	P[False->False]=9.091%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 30
+Est. Error Rate: 69.02%
+Eval. Error Rate: ---
+Est. Quality (Expected): 14%
+Est. Quality (Optimized): 38%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 32
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=26.667%	P[True->False]=73.333%	
+P[False->True]=64.706%	P[False->False]=35.294%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 31
+Est. Error Rate: 87.3%
+Eval. Error Rate: ---
+Est. Quality (Expected): 56%
+Est. Quality (Optimized): 75%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 32
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=11.111%	P[True->False]=88.889%	
+P[False->True]=85.714%	P[False->False]=14.286%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 32
+Est. Error Rate: 58.12%
+Eval. Error Rate: ---
+Est. Quality (Expected): 3%
+Est. Quality (Optimized): 16%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 31
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=40.0%	P[True->False]=60.0%	
+P[False->True]=56.25%	P[False->False]=43.75%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 33
+Est. Error Rate: 61.31%
+Eval. Error Rate: ---
+Est. Quality (Expected): 6%
+Est. Quality (Optimized): 23%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 30
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=23.529%	P[True->False]=76.471%	
+P[False->True]=46.154%	P[False->False]=53.846%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 34
+Est. Error Rate: 51.84%
+Eval. Error Rate: ---
+Est. Quality (Expected): 0%
+Est. Quality (Optimized): 4%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 33
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=37.5%	P[True->False]=62.5%	
+P[False->True]=41.176%	P[False->False]=58.824%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 35
+Est. Error Rate: 68.25%
+Eval. Error Rate: ---
+Est. Quality (Expected): 13%
+Est. Quality (Optimized): 36%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 34
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=26.667%	P[True->False]=73.333%	
+P[False->True]=63.158%	P[False->False]=36.842%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 36
+Est. Error Rate: 71.88%
+Eval. Error Rate: ---
+Est. Quality (Expected): 20%
+Est. Quality (Optimized): 44%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 32
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=37.5%	P[True->False]=62.5%	
+P[False->True]=81.25%	P[False->False]=18.75%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 37
+Est. Error Rate: 58.12%
+Eval. Error Rate: ---
+Est. Quality (Expected): 3%
+Est. Quality (Optimized): 16%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 31
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=43.75%	P[True->False]=56.25%	
+P[False->True]=60.0%	P[False->False]=40.0%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 38
+Est. Error Rate: 79.41%
+Eval. Error Rate: ---
+Est. Quality (Expected): 38%
+Est. Quality (Optimized): 59%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 30
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=41.176%	P[True->False]=58.824%	
+P[False->True]=100.0%	P[False->False]=0.0%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 39
+Est. Error Rate: 73.81%
+Eval. Error Rate: ---
+Est. Quality (Expected): 23%
+Est. Quality (Optimized): 48%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 39
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=19.048%	P[True->False]=80.952%	
+P[False->True]=66.667%	P[False->False]=33.333%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 4
+Est. Error Rate: 66.91%
+Eval. Error Rate: ---
+Est. Quality (Expected): 12%
+Est. Quality (Optimized): 34%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 33
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=25.0%	P[True->False]=75.0%	
+P[False->True]=58.824%	P[False->False]=41.176%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 40
+Est. Error Rate: 22.88%
+Eval. Error Rate: ---
+Est. Quality (Expected): 29%
+Est. Quality (Optimized): 54%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 35
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=77.778%	P[True->False]=22.222%	
+P[False->True]=23.529%	P[False->False]=76.471%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 41
+Est. Error Rate: 30.0%
+Eval. Error Rate: ---
+Est. Quality (Expected): 16%
+Est. Quality (Optimized): 40%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 30
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=73.333%	P[True->False]=26.667%	
+P[False->True]=33.333%	P[False->False]=66.667%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 42
+Est. Error Rate: 34.29%
+Eval. Error Rate: ---
+Est. Quality (Expected): 10%
+Est. Quality (Optimized): 31%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 29
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=60.0%	P[True->False]=40.0%	
+P[False->True]=28.571%	P[False->False]=71.429%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 43
+Est. Error Rate: 44.38%
+Eval. Error Rate: ---
+Est. Quality (Expected): 2%
+Est. Quality (Optimized): 11%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 31
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=80.0%	P[True->False]=20.0%	
+P[False->True]=68.75%	P[False->False]=31.25%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 44
+Est. Error Rate: 30.15%
+Eval. Error Rate: ---
+Est. Quality (Expected): 15%
+Est. Quality (Optimized): 40%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 29
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=64.706%	P[True->False]=35.294%	
+P[False->True]=25.0%	P[False->False]=75.0%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 45
+Est. Error Rate: 21.53%
+Eval. Error Rate: ---
+Est. Quality (Expected): 37%
+Est. Quality (Optimized): 57%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 34
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=62.5%	P[True->False]=37.5%	
+P[False->True]=5.556%	P[False->False]=94.444%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 46
+Est. Error Rate: 27.08%
+Eval. Error Rate: ---
+Est. Quality (Expected): 21%
+Est. Quality (Optimized): 46%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 28
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=83.333%	P[True->False]=16.667%	
+P[False->True]=37.5%	P[False->False]=62.5%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 47
+Est. Error Rate: 42.71%
+Eval. Error Rate: ---
+Est. Quality (Expected): 2%
+Est. Quality (Optimized): 15%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 32
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=46.154%	P[True->False]=53.846%	
+P[False->True]=31.579%	P[False->False]=68.421%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 48
+Est. Error Rate: 41.67%
+Eval. Error Rate: ---
+Est. Quality (Expected): 3%
+Est. Quality (Optimized): 17%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 31
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=66.667%	P[True->False]=33.333%	
+P[False->True]=50.0%	P[False->False]=50.0%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 49
+Est. Error Rate: 37.05%
+Eval. Error Rate: ---
+Est. Quality (Expected): 7%
+Est. Quality (Optimized): 26%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 30
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=68.75%	P[True->False]=31.25%	
+P[False->True]=42.857%	P[False->False]=57.143%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 5
+Est. Error Rate: 70.34%
+Eval. Error Rate: ---
+Est. Quality (Expected): 18%
+Est. Quality (Optimized): 41%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 29
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=41.667%	P[True->False]=58.333%	
+P[False->True]=82.353%	P[False->False]=17.647%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 50
+Est. Error Rate: 20.14%
+Eval. Error Rate: ---
+Est. Quality (Expected): 36%
+Est. Quality (Optimized): 60%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 34
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=87.5%	P[True->False]=12.5%	
+P[False->True]=27.778%	P[False->False]=72.222%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 51
+Est. Error Rate: 31.19%
+Eval. Error Rate: ---
+Est. Quality (Expected): 14%
+Est. Quality (Optimized): 38%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 29
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=73.333%	P[True->False]=26.667%	
+P[False->True]=35.714%	P[False->False]=64.286%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 52
+Est. Error Rate: 8.89%
+Eval. Error Rate: ---
+Est. Quality (Expected): 67%
+Est. Quality (Optimized): 82%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 33
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=88.889%	P[True->False]=11.111%	
+P[False->True]=6.667%	P[False->False]=93.333%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 53
+Est. Error Rate: 22.29%
+Eval. Error Rate: ---
+Est. Quality (Expected): 31%
+Est. Quality (Optimized): 55%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 31
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=68.75%	P[True->False]=31.25%	
+P[False->True]=13.333%	P[False->False]=86.667%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 54
+Est. Error Rate: 34.59%
+Eval. Error Rate: ---
+Est. Quality (Expected): 10%
+Est. Quality (Optimized): 31%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 33
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=57.143%	P[True->False]=42.857%	
+P[False->True]=26.316%	P[False->False]=73.684%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 55
+Est. Error Rate: 40.25%
+Eval. Error Rate: ---
+Est. Quality (Expected): 5%
+Est. Quality (Optimized): 20%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 36
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=84.211%	P[True->False]=15.789%	
+P[False->True]=64.706%	P[False->False]=35.294%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 56
+Est. Error Rate: 34.05%
+Eval. Error Rate: ---
+Est. Quality (Expected): 10%
+Est. Quality (Optimized): 32%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 35
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=68.75%	P[True->False]=31.25%	
+P[False->True]=36.842%	P[False->False]=63.158%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 57
+Est. Error Rate: 14.66%
+Eval. Error Rate: ---
+Est. Quality (Expected): 52%
+Est. Quality (Optimized): 71%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 29
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=76.923%	P[True->False]=23.077%	
+P[False->True]=6.25%	P[False->False]=93.75%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 58
+Est. Error Rate: 37.25%
+Eval. Error Rate: ---
+Est. Quality (Expected): 6%
+Est. Quality (Optimized): 25%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 32
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=66.667%	P[True->False]=33.333%	
+P[False->True]=41.176%	P[False->False]=58.824%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 59
+Est. Error Rate: 26.84%
+Eval. Error Rate: ---
+Est. Quality (Expected): 23%
+Est. Quality (Optimized): 46%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 33
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=87.5%	P[True->False]=12.5%	
+P[False->True]=41.176%	P[False->False]=58.824%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 6
+Est. Error Rate: 91.67%
+Eval. Error Rate: ---
+Est. Quality (Expected): 67%
+Est. Quality (Optimized): 83%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 30
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=16.667%	P[True->False]=83.333%	
+P[False->True]=100.0%	P[False->False]=0.0%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 60
+Est. Error Rate: 28.48%
+Eval. Error Rate: ---
+Est. Quality (Expected): 20%
+Est. Quality (Optimized): 43%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 36
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=58.824%	P[True->False]=41.176%	
+P[False->True]=15.789%	P[False->False]=84.211%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 61
+Est. Error Rate: 30.7%
+Eval. Error Rate: ---
+Est. Quality (Expected): 16%
+Est. Quality (Optimized): 39%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 33
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=82.353%	P[True->False]=17.647%	
+P[False->True]=43.75%	P[False->False]=56.25%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 62
+Est. Error Rate: 27.21%
+Eval. Error Rate: ---
+Est. Quality (Expected): 21%
+Est. Quality (Optimized): 46%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 33
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=75.0%	P[True->False]=25.0%	
+P[False->True]=29.412%	P[False->False]=70.588%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 63
+Est. Error Rate: 21.32%
+Eval. Error Rate: ---
+Est. Quality (Expected): 33%
+Est. Quality (Optimized): 57%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 33
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=75.0%	P[True->False]=25.0%	
+P[False->True]=17.647%	P[False->False]=82.353%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 64
+Est. Error Rate: 21.63%
+Eval. Error Rate: ---
+Est. Quality (Expected): 34%
+Est. Quality (Optimized): 57%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 29
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=69.231%	P[True->False]=30.769%	
+P[False->True]=12.5%	P[False->False]=87.5%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 65
+Est. Error Rate: 24.26%
+Eval. Error Rate: ---
+Est. Quality (Expected): 26%
+Est. Quality (Optimized): 51%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 33
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=75.0%	P[True->False]=25.0%	
+P[False->True]=23.529%	P[False->False]=76.471%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 66
+Est. Error Rate: 35.14%
+Eval. Error Rate: ---
+Est. Quality (Expected): 8%
+Est. Quality (Optimized): 30%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 35
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=61.538%	P[True->False]=38.462%	
+P[False->True]=31.818%	P[False->False]=68.182%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 67
+Est. Error Rate: 45.26%
+Eval. Error Rate: ---
+Est. Quality (Expected): 1%
+Est. Quality (Optimized): 9%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 35
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=38.889%	P[True->False]=61.111%	
+P[False->True]=29.412%	P[False->False]=70.588%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 68
+Est. Error Rate: 39.8%
+Eval. Error Rate: ---
+Est. Quality (Expected): 4%
+Est. Quality (Optimized): 20%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 32
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=73.333%	P[True->False]=26.667%	
+P[False->True]=52.941%	P[False->False]=47.059%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 69
+Est. Error Rate: 38.08%
+Eval. Error Rate: ---
+Est. Quality (Expected): 6%
+Est. Quality (Optimized): 24%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 36
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=76.471%	P[True->False]=23.529%	
+P[False->True]=52.632%	P[False->False]=47.368%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 7
+Est. Error Rate: 78.57%
+Eval. Error Rate: ---
+Est. Quality (Expected): 33%
+Est. Quality (Optimized): 57%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 28
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=28.571%	P[True->False]=71.429%	
+P[False->True]=85.714%	P[False->False]=14.286%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 70
+Est. Error Rate: 23.2%
+Eval. Error Rate: ---
+Est. Quality (Expected): 31%
+Est. Quality (Optimized): 54%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 35
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=64.706%	P[True->False]=35.294%	
+P[False->True]=11.111%	P[False->False]=88.889%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 71
+Est. Error Rate: 18.01%
+Eval. Error Rate: ---
+Est. Quality (Expected): 41%
+Est. Quality (Optimized): 64%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 33
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=76.471%	P[True->False]=23.529%	
+P[False->True]=12.5%	P[False->False]=87.5%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 72
+Est. Error Rate: 26.5%
+Eval. Error Rate: ---
+Est. Quality (Expected): 22%
+Est. Quality (Optimized): 47%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 31
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=77.778%	P[True->False]=22.222%	
+P[False->True]=30.769%	P[False->False]=69.231%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 73
+Est. Error Rate: 35.83%
+Eval. Error Rate: ---
+Est. Quality (Expected): 8%
+Est. Quality (Optimized): 28%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 35
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=53.333%	P[True->False]=46.667%	
+P[False->True]=25.0%	P[False->False]=75.0%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 74
+Est. Error Rate: 43.97%
+Eval. Error Rate: ---
+Est. Quality (Expected): 1%
+Est. Quality (Optimized): 12%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 37
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=65.0%	P[True->False]=35.0%	
+P[False->True]=52.941%	P[False->False]=47.059%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 75
+Est. Error Rate: 25.48%
+Eval. Error Rate: ---
+Est. Quality (Expected): 26%
+Est. Quality (Optimized): 49%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 29
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=61.538%	P[True->False]=38.462%	
+P[False->True]=12.5%	P[False->False]=87.5%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 76
+Est. Error Rate: 33.89%
+Eval. Error Rate: ---
+Est. Quality (Expected): 11%
+Est. Quality (Optimized): 32%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 33
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=72.222%	P[True->False]=27.778%	
+P[False->True]=40.0%	P[False->False]=60.0%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 77
+Est. Error Rate: 11.76%
+Eval. Error Rate: ---
+Est. Quality (Expected): 59%
+Est. Quality (Optimized): 76%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 31
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=100.0%	P[True->False]=0.0%	
+P[False->True]=23.529%	P[False->False]=76.471%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 78
+Est. Error Rate: 51.37%
+Eval. Error Rate: ---
+Est. Quality (Expected): 0%
+Est. Quality (Optimized): 3%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 32
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=70.588%	P[True->False]=29.412%	
+P[False->True]=73.333%	P[False->False]=26.667%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 79
+Est. Error Rate: 26.37%
+Eval. Error Rate: ---
+Est. Quality (Expected): 24%
+Est. Quality (Optimized): 47%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 27
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=61.538%	P[True->False]=38.462%	
+P[False->True]=14.286%	P[False->False]=85.714%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 8
+Est. Error Rate: 61.61%
+Eval. Error Rate: ---
+Est. Quality (Expected): 6%
+Est. Quality (Optimized): 23%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 36
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=47.368%	P[True->False]=52.632%	
+P[False->True]=70.588%	P[False->False]=29.412%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 80
+Est. Error Rate: 31.86%
+Eval. Error Rate: ---
+Est. Quality (Expected): 15%
+Est. Quality (Optimized): 36%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 35
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=52.941%	P[True->False]=47.059%	
+P[False->True]=16.667%	P[False->False]=83.333%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 81
+Est. Error Rate: 19.81%
+Eval. Error Rate: ---
+Est. Quality (Expected): 36%
+Est. Quality (Optimized): 60%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 25
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=81.818%	P[True->False]=18.182%	
+P[False->True]=21.429%	P[False->False]=78.571%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 82
+Est. Error Rate: 27.08%
+Eval. Error Rate: ---
+Est. Quality (Expected): 22%
+Est. Quality (Optimized): 46%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 34
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=62.5%	P[True->False]=37.5%	
+P[False->True]=16.667%	P[False->False]=83.333%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 83
+Est. Error Rate: 35.53%
+Eval. Error Rate: ---
+Est. Quality (Expected): 9%
+Est. Quality (Optimized): 29%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 35
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=50.0%	P[True->False]=50.0%	
+P[False->True]=21.053%	P[False->False]=78.947%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 84
+Est. Error Rate: 38.45%
+Eval. Error Rate: ---
+Est. Quality (Expected): 5%
+Est. Quality (Optimized): 23%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 31
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=58.824%	P[True->False]=41.176%	
+P[False->True]=35.714%	P[False->False]=64.286%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 85
+Est. Error Rate: 30.21%
+Eval. Error Rate: ---
+Est. Quality (Expected): 17%
+Est. Quality (Optimized): 40%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 34
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=56.25%	P[True->False]=43.75%	
+P[False->True]=16.667%	P[False->False]=83.333%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 86
+Est. Error Rate: 31.37%
+Eval. Error Rate: ---
+Est. Quality (Expected): 14%
+Est. Quality (Optimized): 37%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 32
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=66.667%	P[True->False]=33.333%	
+P[False->True]=29.412%	P[False->False]=70.588%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 87
+Est. Error Rate: 24.05%
+Eval. Error Rate: ---
+Est. Quality (Expected): 27%
+Est. Quality (Optimized): 52%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 29
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=78.571%	P[True->False]=21.429%	
+P[False->True]=26.667%	P[False->False]=73.333%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 88
+Est. Error Rate: 29.41%
+Eval. Error Rate: ---
+Est. Quality (Expected): 17%
+Est. Quality (Optimized): 41%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 34
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=70.588%	P[True->False]=29.412%	
+P[False->True]=29.412%	P[False->False]=70.588%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 89
+Est. Error Rate: 27.05%
+Eval. Error Rate: ---
+Est. Quality (Expected): 21%
+Est. Quality (Optimized): 46%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 37
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=72.222%	P[True->False]=27.778%	
+P[False->True]=26.316%	P[False->False]=73.684%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 9
+Est. Error Rate: 89.37%
+Eval. Error Rate: ---
+Est. Quality (Expected): 63%
+Est. Quality (Optimized): 79%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 30
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=15.385%	P[True->False]=84.615%	
+P[False->True]=94.118%	P[False->False]=5.882%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 90
+Est. Error Rate: 34.72%
+Eval. Error Rate: ---
+Est. Quality (Expected): 10%
+Est. Quality (Optimized): 31%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 34
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=55.556%	P[True->False]=44.444%	
+P[False->True]=25.0%	P[False->False]=75.0%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 91
+Est. Error Rate: 28.99%
+Eval. Error Rate: ---
+Est. Quality (Expected): 18%
+Est. Quality (Optimized): 42%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 31
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=71.429%	P[True->False]=28.571%	
+P[False->True]=29.412%	P[False->False]=70.588%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 92
+Est. Error Rate: 49.31%
+Eval. Error Rate: ---
+Est. Quality (Expected): 0%
+Est. Quality (Optimized): 1%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 34
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=38.889%	P[True->False]=61.111%	
+P[False->True]=37.5%	P[False->False]=62.5%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 93
+Est. Error Rate: 13.89%
+Eval. Error Rate: ---
+Est. Quality (Expected): 53%
+Est. Quality (Optimized): 72%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 32
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=72.222%	P[True->False]=27.778%	
+P[False->True]=0.0%	P[False->False]=100.0%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 94
+Est. Error Rate: 27.38%
+Eval. Error Rate: ---
+Est. Quality (Expected): 20%
+Est. Quality (Optimized): 45%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 32
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=66.667%	P[True->False]=33.333%	
+P[False->True]=21.429%	P[False->False]=78.571%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 95
+Est. Error Rate: 40.81%
+Eval. Error Rate: ---
+Est. Quality (Expected): 4%
+Est. Quality (Optimized): 18%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 31
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=46.154%	P[True->False]=53.846%	
+P[False->True]=27.778%	P[False->False]=72.222%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 96
+Est. Error Rate: 12.16%
+Eval. Error Rate: ---
+Est. Quality (Expected): 57%
+Est. Quality (Optimized): 76%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 32
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=82.353%	P[True->False]=17.647%	
+P[False->True]=6.667%	P[False->False]=93.333%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 97
+Est. Error Rate: 32.29%
+Eval. Error Rate: ---
+Est. Quality (Expected): 13%
+Est. Quality (Optimized): 35%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 31
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=68.75%	P[True->False]=31.25%	
+P[False->True]=33.333%	P[False->False]=66.667%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 98
+Est. Error Rate: 31.11%
+Eval. Error Rate: ---
+Est. Quality (Expected): 15%
+Est. Quality (Optimized): 38%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 33
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=77.778%	P[True->False]=22.222%	
+P[False->True]=40.0%	P[False->False]=60.0%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+
+Worker: 99
+Est. Error Rate: 22.4%
+Eval. Error Rate: ---
+Est. Quality (Expected): 31%
+Est. Quality (Optimized): 55%
+Eval. Quality (Expected): ---
+Eval. Quality (Optimized): ---
+Number of Annotations: 25
+Number of Gold Tests: 0
+Confusion Matrix (Estimated): 
+P[True->True]=64.286%	P[True->False]=35.714%	
+P[False->True]=9.091%	P[False->False]=90.909%	
+Confusion Matrix (Evaluation data): 
+P[True->True]=---%	P[True->False]=---%	
+P[False->True]=---%	P[False->False]=---%	
+

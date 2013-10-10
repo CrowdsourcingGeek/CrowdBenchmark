@@ -38,12 +38,6 @@ public class AnswerPart extends AbstractPart {
 	public void createComposite(Composite parent) {
 		parent.setLayout(new GridLayout(2, false));
 
-		// Label searchLabel = new Label(parent, SWT.NONE);
-		// searchLabel.setText("Search: ");
-		// final Text searchText = new Text(parent, SWT.BORDER | SWT.SEARCH);
-		// searchText.setLayoutData(new GridData(GridData.GRAB_HORIZONTAL
-		// | GridData.HORIZONTAL_ALIGN_FILL));
-
 		createViewer(parent);
 		createButton(parent);
 	}
@@ -55,19 +49,7 @@ public class AnswerPart extends AbstractPart {
 		gd_composite.widthHint = 116;
 		composite.setLayoutData(gd_composite);
 		composite.setLayout(new GridLayout(2, false));
-		/*
-		 * { btnImport = new Button(composite, SWT.NONE);
-		 * btnImport.setText("Import"); btnImport.addSelectionListener(new
-		 * SelectionListener() {
-		 * 
-		 * @Override public void widgetDefaultSelected(SelectionEvent e) { }
-		 * 
-		 * @Override public void widgetSelected(SelectionEvent e) { FileDialog
-		 * dlg = new FileDialog(btnImport.getShell(), SWT.OPEN); String[]
-		 * filterExt = { "*.txt" }; dlg.setFilterExtensions(filterExt);
-		 * dlg.setText("Open"); String path = dlg.open(); importData(path); }
-		 * }); }
-		 */
+
 		{
 			btnExport = new Button(composite, SWT.NONE);
 			btnExport.setText("Export");
@@ -103,7 +85,6 @@ public class AnswerPart extends AbstractPart {
 		AnswersReader reader = new AnswersReader();
 		reader.readfile(path);
 		List<Answer> data = appendData(reader.getAnswers());
-		// System.out.println(reader.getAnswers());
 		tableViewer.setInput(data);
 		tableViewer.refresh();
 

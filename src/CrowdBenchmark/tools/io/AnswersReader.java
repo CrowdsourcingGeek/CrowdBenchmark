@@ -23,12 +23,9 @@ public class AnswersReader extends TxtReader {
 			BufferedReader dataInput = new BufferedReader(new FileReader(
 					new File(path)));
 			String line;
-			// title
 			dataInput.readLine();
 
 			while ((line = dataInput.readLine()) != null) {
-				// buffer.append(cleanLine(line.toLowerCase()));
-				// System.out.println(line);
 				String[] content = line.split("\t");
 				answers.add(new Answer(Integer.parseInt(content[0]),
 						content[1], content[2], content[3]));

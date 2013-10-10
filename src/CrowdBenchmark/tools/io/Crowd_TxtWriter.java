@@ -63,10 +63,6 @@ public class Crowd_TxtWriter {
 			}
 		try {
 
-			/*
-			 * if (!(new File(outfile.getParent()).exists())) { (new
-			 * File(outfile.getParent())).mkdirs(); }
-			 */
 			BufferedWriter bw = new BufferedWriter(new FileWriter(outfile));
 			bw.write(input);
 			bw.close();

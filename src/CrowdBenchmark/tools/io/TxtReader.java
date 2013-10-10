@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 
-public class TxtReader extends Reader {
+public class TxtReader {
 
 	private String currentpath;
 	private String content;
@@ -17,7 +17,6 @@ public class TxtReader extends Reader {
 		currentpath = path;
 	}
 
-	@Override
 	public void readfile(String filename) {
 		String path = filename;
 		StringBuffer buffer = new StringBuffer();

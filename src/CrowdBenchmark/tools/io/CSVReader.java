@@ -10,7 +10,7 @@ import java.util.Map;
 
 import CrowdBenchmark.models.Data;
 
-public class CSVReader extends Reader {
+public class CSVReader {
 
 	private String currentpath;
 	private String content;
@@ -25,7 +25,6 @@ public class CSVReader extends Reader {
 		currentpath = path;
 	}
 
-	@Override
 	public void readfile(String filename) {
 		data = new ArrayList<Data>();
 		String path = filename;

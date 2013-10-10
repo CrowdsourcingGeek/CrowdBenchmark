@@ -10,17 +10,10 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
-public class ConfigReader extends Reader {
+public class ConfigReader {
 
 	private String currentpath = "";
 	private Map<String, String> listConfig = new HashMap<String, String>();
-
-	/*
-	 * public void displayData() { for (String key : listConfig.keySet()) {
-	 * System.out.println(key + "=" + listConfig.get(key)); }
-	 * 
-	 * }
-	 */
 
 	public Map<String, String> getConfig() {
 		return listConfig;
@@ -30,21 +23,14 @@ public class ConfigReader extends Reader {
 		currentpath = path;
 	}
 
-	@Override
 	public void readfile(String filename) {
 		String path = currentpath + filename;
 
 		try {
-			// InputStream is = this.getClass().getClassLoader()
-			// .getResourceAsStream(filename);
-			// BufferedReader dataInput = new BufferedReader(
-			// new InputStreamReader(is));
 			BufferedReader dataInput = new BufferedReader(new FileReader(
 					new File(path)));
 			String line;
-
 			while ((line = dataInput.readLine()) != null) {
-				// buffer.append(cleanLine(line.toLowerCase()));
 				line = line.replaceAll(" ", "");
 				line = line.replaceAll("\"", "");
 				String[] pair = line.split("=");
@@ -57,25 +43,6 @@ public class ConfigReader extends Reader {
 		} catch (Exception ex) {
 			ex.printStackTrace();
 		}
-
-		/*
-		 * File fXmlFile = new File(path); DocumentBuilderFactory dbFactory =
-		 * DocumentBuilderFactory.newInstance(); DocumentBuilder dBuilder =
-		 * null; Document doc = null; try { dBuilder =
-		 * dbFactory.newDocumentBuilder(); doc = dBuilder.parse(fXmlFile); }
-		 * catch (ParserConfigurationException | SAXException | IOException e) {
-		 * e.printStackTrace(); }
-		 * 
-		 * doc.getDocumentElement().normalize(); Element root =
-		 * doc.getDocumentElement(); parseNode(root);
-		 * 
-		 * for (String key : listConfig.keySet()) { System.out.println(key +
-		 * ": " + listConfig.get(key)); }
-		 */
-
-		/*
-		 * System.out.println("Stop here"); System.exit(0);
-		 */
 
 	}
 
@@ -92,7 +59,6 @@ public class ConfigReader extends Reader {
 					value = value.replaceAll(" ", "");
 					value = value.replaceAll("\"", "");
 					listConfig.put(key, value);
-					// System.out.println(key + ":" + value);
 				} else {
 					parseNode((Element) list.item(i));
 				}
